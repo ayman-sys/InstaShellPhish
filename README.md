@@ -35,7 +35,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Bugs cleared
 - Fixed URL not showing
 
-![Screenshot](screenshot.png)
+
 
 ![Screenshot_FB](screenshot_fb.png)
 
@@ -56,7 +56,7 @@ bash update.sh
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
 
-## Modified by @AbirHasan2005
+## Modified by @ayman-sys
 
 ## Credits:
 #### TheLinuxChoice: https://github.com/thelinuxchoice
