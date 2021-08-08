@@ -36,7 +36,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Fixed URL not showing
 
 
-
+![Screenshot](capture1.png)
 ![Screenshot_FB](screenshot_fb.png)
 
 ### Usage:
